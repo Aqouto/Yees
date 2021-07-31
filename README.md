@@ -1,2 +1,1 @@
-# Yees
 Scrap Mechanic Code
